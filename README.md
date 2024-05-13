@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
-  <a href="https://github.com/LedgerNinjs0x?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=LedgerNinjs0x&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@LedgerNinjs0x's trophy stats"/></a>
+  <a href="https://github.com/LedgerNinja0x?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=LedgerNinja0x&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@LedgerNinja0x's trophy stats"/></a>
 </p>
 <table align="center">
   <tr>
@@ -135,15 +135,15 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/LedgerNinjs0x/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LedgerNinjs0x&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
+  <a href="https://github.com/LedgerNinja0x/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LedgerNinja0x&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
   </a>
-  <a href="https://github.com/LedgerNinjs0x/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LedgerNinjs0x&layout=compact&langs_count=8&card_width=350&theme=radical" />
+  <a href="https://github.com/LedgerNinja0x/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LedgerNinja0x&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LedgerNinja0x\&layout=compact&theme=radical" />
 </p>
 <div align="left">
 
