@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ Blockchain & Full Stack Developer 🖐️</h1> 
+<h1>🖐️ Hello, I am Blockchain & Full Stack Developer </h1> 
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
