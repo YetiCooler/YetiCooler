@@ -142,9 +142,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LedgerNinja0x&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LedgerNinja0x&layout=compact&theme=radical" />
-</p>
 <div align="left">
 
 
