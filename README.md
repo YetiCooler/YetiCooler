@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
-  <a href="https://github.com/YetiCooler?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=YetiCooler&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Ninjadev-art's trophy stats"/></a>
+  <a href="https://github.com/YetiCooler?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=YetiCooler&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@YetiCooler's trophy stats"/></a>
 </p>
 <br/>
 
