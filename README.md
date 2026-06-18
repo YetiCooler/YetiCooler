@@ -1,5 +1,5 @@
-<h1 align="center">Hi, EliteDev is here📍</h1>
-<h3 align="center">Full-Stack & AI Developer</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Full-Stack PHP & AI Developer</h3>
 
 <p align="center">
   <a href="https://github.com/YetiCooler"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=PHP+Backends+%7C+E-Commerce+%7C+AI+Automation;10%2B+years+building+production+systems;Open+to+collaboration+worldwide" alt="Typing SVG" /></a>
@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/haruto-suzuki-dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/haruto-suzuki-9934343a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:haruto.suzuki.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -18,8 +16,7 @@
 ```php
 <?php
 
-class HarutoSuzuki {
-    public string $name = 'Haruto Suzuki (鈴木春人)';
+class Developer {
     public string $role = 'Full-Stack PHP & AI Developer';
     public string $location = 'Tokyo, Japan';
     public array $focus = [
@@ -35,7 +32,6 @@ class HarutoSuzuki {
 - 🐘 **Specializing in** raw PHP, Laravel, Symfony, Shopware & Shopify
 - 🤖 **Also building** ML pipelines, LLMs, and intelligent automation
 - 🌍 **Collaborating** with global clients across time zones from Tokyo
-- 📫 **Reach me at** [haruto.suzuki.dev@gmail.com](mailto:haruto.suzuki.dev@gmail.com)
 
 ---
 
@@ -83,17 +79,6 @@ class HarutoSuzuki {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetiCooler&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <i>Building something intelligent together?</i><br/><br/>
-  <a href="mailto:haruto.suzuki.dev@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/haruto-suzuki-9934343a9/">💼 LinkedIn</a> ·
-  <a href="https://github.com/haruto-suzuki-dev">🌐 Portfolio Repo</a>
 </p>
 
 <p align="center">
