@@ -45,13 +45,3 @@ class Developer {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Subliminator**](https://www.subliminator.com/) | Print-on-demand platform with 130+ products & Shopify/Etsy integrations | PHP · Symfony · Shopify |
-| [**Flower24.ch**](https://flower24.ch/) | Swiss flower delivery with multi-language checkout | PHP · Shopware |
-| [**Die Expertin**](https://die-expertin.ch/) | Corporate communications & design agency site | PHP · WordPress |
-| [**AV-Multi**](https://www.av-multi.at/) | Austrian HIFI & home cinema e-commerce | PHP · Shopware |
-
----
