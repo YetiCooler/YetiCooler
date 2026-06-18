@@ -23,10 +23,9 @@ class Developer {
 }
 ```
 
-- 🔭 **Currently** Machine Learning Specialist at **OrbitShift.AI**
 - 🐘 **Specializing in** raw PHP, Laravel, Symfony, Shopware & Shopify
 - 🤖 **Also building** ML pipelines, LLMs, and intelligent automation
-- 🌍 **Collaborating** with global clients across time zones from Tokyo
+- 🌍 **Collaborating** with global clients across time zones
 
 ---
 
